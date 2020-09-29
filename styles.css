@@ -19,3 +19,14 @@ nav{
 button{
     
 }
+.about{
+    text-align: center;
+}
+.about p{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+h2{
+    color: blue;
+}
