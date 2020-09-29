@@ -7,6 +7,15 @@ nav{
 }
 .logo{
     margin-left: 40%;
-    margin-right: 40%;
+    margin-right: 40%;   
+}
+.banner{
+    background-image: url('banner.jpg');
+    text-align: center;
+    color: white;
+    padding-bottom: 2%;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
     
 }
